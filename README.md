@@ -12,7 +12,9 @@ Sou contribuidor do <strong>BigLinux</strong> e uso o sistema como meu ambiente 
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gustavoz13/Gustavoz13/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
