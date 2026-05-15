@@ -26,7 +26,7 @@ Sou contribuidor do <strong>BigLinux</strong> e uso o sistema como meu ambiente 
 
 <p align="left">
 Comecei minha trajetória de contribuição com o BigLinux em <strong>6 de janeiro de 2026</strong>, quando traduzi a <strong>Big Store</strong> para o inglês.  
-Desde então, contribuo ativamente com o projeto através de traduções extensas, correções de bugs, doações e suporte à comunidade.
+Desde então, contribuo com o projeto através de traduções extensas, correções de bugs, doações e suporte à comunidade.
 </p>
 
 ###
